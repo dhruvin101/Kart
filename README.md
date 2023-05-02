@@ -1,2 +1,1 @@
-# flipkart-clone-html-css-and-javascript
-flipkart clone html css and javascript
+A fully responsive Flipkart Clone website
