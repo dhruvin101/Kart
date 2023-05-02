@@ -1,2 +1,3 @@
 A fully responsive Flipkart Clone website
-<img src="C:\Users\HP\Desktop\New folder\icon\Screenshot (104).png" width="128"/>
+
+![index](https://github.com/dhruvin101/Kart/blob/main/icon/Screenshot%20(104).png)
